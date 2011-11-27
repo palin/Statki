@@ -1,0 +1,9 @@
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\bin\Debug\Statki.exe
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\bin\Debug\Statki.pdb
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\Statki.MainForm.resources
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\Statki.Properties.Resources.resources
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\Statki.exe
+c:\users\palin\documents\visual studio 2010\Projects\Statki\Statki\obj\x86\Debug\Statki.pdb
